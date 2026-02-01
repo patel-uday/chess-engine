@@ -1,4 +1,4 @@
-# PyChessEngine
+# chess-engine
 
 This project is a simple chess engine written in Python.  
 I built this as a learning project to understand how chess engines work and to try creating one on my own.
